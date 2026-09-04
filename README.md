@@ -2,8 +2,6 @@
 
 Data Analytics portfolio showcasing Python, SQL, Excel, Power BI, Power Query projects, data analysis, and visualization.
 
-# Data Analytics Portfolio
-
 Welcome to my Data Analytics Portfolio.
 
 This repository showcases my learning journey, practical projects, and hands-on work in Data Analytics using Python, SQL, Excel, Power BI, and Power Query.
